@@ -1,4 +1,4 @@
-eight_point_poly
+Simple Eight Point Polyhedron in OpenScad
 ================
 
 I needed a quick way to make eight point polyhedrons with 6 walls but not necessarily cubed.
